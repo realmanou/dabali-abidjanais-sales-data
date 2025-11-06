@@ -1,0 +1,92 @@
+Date,Jour,Température (°C),Météo,Promo,Clients,Ventes (FCFA),Menu le plus vendu,Heure de pointe
+2024-01-01,Lundi,31.7,Ensoleillé,Non,294,473574,Burger africain,Soir
+2024-01-02,Mardi,31.5,Ensoleillé,Non,303,547536,Garba,Midi
+2024-01-03,Mercredi,26.2,Ensoleillé,Oui,381,724246,Garba,Midi
+2024-01-04,Jeudi,29.0,Nuageux,Oui,272,552554,Poulet braisé,Midi
+2024-01-05,Vendredi,31.2,Nuageux,Non,220,388159,Burger africain,Soir
+2024-01-06,Samedi,26.9,Ensoleillé,Non,406,652806,Burger africain,Soir
+2024-01-07,Dimanche,29.3,Nuageux,Oui,418,769022,Alloco poisson,Midi
+2024-01-08,Lundi,27.1,Nuageux,Non,193,329444,Burger africain,Soir
+2024-01-09,Mardi,32.5,Pluvieux,Non,161,322934,Alloco poisson,Soir
+2024-01-10,Mercredi,26.8,Pluvieux,Oui,327,491233,Alloco poisson,Soir
+2024-01-11,Jeudi,31.2,Ensoleillé,Non,232,513617,Burger africain,Midi
+2024-01-12,Vendredi,31.9,Nuageux,Non,273,659388,Alloco poisson,Soir
+2024-01-13,Samedi,28.2,Nuageux,Oui,433,846430,Burger africain,Soir
+2024-01-14,Dimanche,26.3,Ensoleillé,Non,375,892914,Garba,Soir
+2024-01-15,Lundi,30.3,Pluvieux,Non,123,238380,Alloco poisson,Soir
+2024-01-16,Mardi,27.9,Pluvieux,Non,166,252020,Alloco poisson,Soir
+2024-01-17,Mercredi,32.5,Ensoleillé,Non,226,425696,Garba,Soir
+2024-01-18,Jeudi,29.6,Ensoleillé,Non,369,839884,Burger africain,Midi
+2024-01-19,Vendredi,31.3,Ensoleillé,Oui,324,682366,Garba,Soir
+2024-01-20,Samedi,30.4,Ensoleillé,Non,370,713172,Burger africain,Soir
+2024-01-21,Dimanche,27.5,Nuageux,Non,350,838742,Alloco poisson,Midi
+2024-01-22,Lundi,27.8,Ensoleillé,Oui,379,710896,Garba,Soir
+2024-01-23,Mardi,30.3,Ensoleillé,Oui,420,837651,Garba,Soir
+2024-01-24,Mercredi,30.0,Ensoleillé,Non,377,677953,Burger africain,Midi
+2024-01-25,Jeudi,29.9,Ensoleillé,Non,251,466230,Burger africain,Midi
+2024-01-26,Vendredi,29.2,Ensoleillé,Non,232,541893,Garba,Soir
+2024-01-27,Samedi,29.9,Ensoleillé,Non,275,527465,Burger africain,Soir
+2024-01-28,Dimanche,27.8,Nuageux,Non,331,673964,Burger africain,Midi
+2024-01-29,Lundi,29.3,Pluvieux,Non,201,375352,Alloco poisson,Midi
+2024-01-30,Mardi,28.7,Pluvieux,Non,150,312369,Alloco poisson,Soir
+2024-01-31,Mercredi,32.6,Ensoleillé,Non,212,341072,Garba,Soir
+2024-02-01,Jeudi,27.0,Ensoleillé,Non,392,956732,Burger africain,Midi
+2024-02-02,Vendredi,27.7,Nuageux,Non,250,495552,Garba,Soir
+2024-02-03,Samedi,27.4,Pluvieux,Oui,273,453800,Poulet braisé,Midi
+2024-02-04,Dimanche,26.1,Ensoleillé,Non,329,753920,Garba,Midi
+2024-02-05,Lundi,27.0,Ensoleillé,Non,326,584353,Burger africain,Midi
+2024-02-06,Mardi,26.1,Pluvieux,Oui,331,683103,Alloco poisson,Soir
+2024-02-07,Mercredi,28.5,Nuageux,Non,234,471048,Burger africain,Soir
+2024-02-08,Jeudi,30.5,Pluvieux,Non,139,225039,Poulet braisé,Midi
+2024-02-09,Vendredi,29.2,Ensoleillé,Non,292,478744,Garba,Midi
+2024-02-10,Samedi,27.0,Nuageux,Non,244,549342,Garba,Midi
+2024-02-11,Dimanche,31.6,Nuageux,Oui,399,968775,Burger africain,Midi
+2024-02-12,Lundi,31.7,Nuageux,Oui,315,778689,Poulet braisé,Midi
+2024-02-13,Mardi,26.1,Ensoleillé,Non,402,869167,Garba,Soir
+2024-02-14,Mercredi,28.4,Ensoleillé,Non,389,741621,Burger africain,Soir
+2024-02-15,Jeudi,31.9,Ensoleillé,Non,350,531370,Burger africain,Midi
+2024-02-16,Vendredi,27.8,Ensoleillé,Non,372,751246,Garba,Midi
+2024-02-17,Samedi,31.3,Ensoleillé,Oui,351,657843,Garba,Midi
+2024-02-18,Dimanche,32.6,Ensoleillé,Non,393,644682,Burger africain,Soir
+2024-02-19,Lundi,32.1,Ensoleillé,Non,347,777730,Burger africain,Midi
+2024-02-20,Mardi,31.4,Ensoleillé,Oui,338,653808,Burger africain,Midi
+2024-02-21,Mercredi,30.6,Pluvieux,Oui,215,447782,Alloco poisson,Midi
+2024-02-22,Jeudi,26.6,Nuageux,Non,298,687370,Poulet braisé,Soir
+2024-02-23,Vendredi,32.8,Ensoleillé,Non,312,638205,Burger africain,Midi
+2024-02-24,Samedi,30.1,Ensoleillé,Oui,374,573677,Garba,Soir
+2024-02-25,Dimanche,27.7,Ensoleillé,Non,329,671767,Garba,Soir
+2024-02-26,Lundi,32.9,Pluvieux,Non,220,421825,Poulet braisé,Soir
+2024-02-27,Mardi,26.0,Nuageux,Non,257,563162,Burger africain,Soir
+2024-02-28,Mercredi,27.8,Ensoleillé,Non,360,810527,Garba,Midi
+2024-02-29,Jeudi,29.6,Ensoleillé,Non,319,795229,Burger africain,Soir
+2024-03-01,Vendredi,28.2,Pluvieux,Non,195,427449,Alloco poisson,Midi
+2024-03-02,Samedi,27.3,Pluvieux,Oui,338,609609,Poulet braisé,Soir
+2024-03-03,Dimanche,27.7,Pluvieux,Non,287,616665,Poulet braisé,Midi
+2024-03-04,Lundi,27.5,Ensoleillé,Oui,372,749619,Garba,Midi
+2024-03-05,Mardi,29.7,Ensoleillé,Non,244,499221,Garba,Midi
+2024-03-06,Mercredi,26.2,Ensoleillé,Oui,316,594989,Burger africain,Soir
+2024-03-07,Jeudi,26.2,Pluvieux,Non,211,388130,Poulet braisé,Midi
+2024-03-08,Vendredi,32.3,Ensoleillé,Non,375,911698,Garba,Soir
+2024-03-09,Samedi,26.1,Ensoleillé,Non,391,651576,Garba,Midi
+2024-03-10,Dimanche,27.9,Pluvieux,Non,262,526853,Poulet braisé,Midi
+2024-03-11,Lundi,30.7,Pluvieux,Non,291,514681,Poulet braisé,Soir
+2024-03-12,Mardi,28.8,Nuageux,Oui,378,943718,Alloco poisson,Midi
+2024-03-13,Mercredi,30.8,Ensoleillé,Non,427,667492,Garba,Midi
+2024-03-14,Jeudi,26.2,Ensoleillé,Non,403,691589,Garba,Midi
+2024-03-15,Vendredi,30.4,Nuageux,Non,269,410143,Garba,Midi
+2024-03-16,Samedi,29.2,Ensoleillé,Non,352,582083,Burger africain,Midi
+2024-03-17,Dimanche,27.3,Pluvieux,Non,327,743560,Poulet braisé,Midi
+2024-03-18,Lundi,27.1,Ensoleillé,Non,359,858327,Garba,Soir
+2024-03-19,Mardi,31.8,Nuageux,Oui,457,863410,Alloco poisson,Midi
+2024-03-20,Mercredi,28.9,Ensoleillé,Non,353,845702,Burger africain,Midi
+2024-03-21,Jeudi,31.4,Nuageux,Non,228,443127,Burger africain,Soir
+2024-03-22,Vendredi,27.8,Ensoleillé,Oui,313,681464,Garba,Soir
+2024-03-23,Samedi,27.7,Nuageux,Oui,355,600535,Garba,Soir
+2024-03-24,Dimanche,28.9,Ensoleillé,Non,438,953538,Burger africain,Soir
+2024-03-25,Lundi,29.5,Pluvieux,Non,291,505102,Alloco poisson,Soir
+2024-03-26,Mardi,30.4,Pluvieux,Non,295,583281,Alloco poisson,Soir
+2024-03-27,Mercredi,30.1,Ensoleillé,Non,357,718667,Garba,Soir
+2024-03-28,Jeudi,29.4,Ensoleillé,Non,350,858955,Garba,Soir
+2024-03-29,Vendredi,26.9,Nuageux,Non,277,658394,Burger africain,Soir
+2024-03-30,Samedi,29.4,Pluvieux,Non,269,613119,Alloco poisson,Midi
+2024-03-31,Dimanche,26.7,Ensoleillé,Non,322,715579,Garba,Midi
